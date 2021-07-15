@@ -7,7 +7,7 @@ ul {
     /* padding: 15px 0px 0px 0px; */
     text-align: center;
     line-height: 20px; 
-    padding: 25px 30px 0px 25px;
+    padding: 25px 40px 0px 25px;
     margin: 0px;
     
 }
@@ -37,10 +37,10 @@ body {
 }
 li {
     list-style: none;
-    width: 12%;
+    width: 11%;
 }
 img {
-    width: 17vh;
+    width: 16.5vh;
     height: 90%;
 }
 h1 {
