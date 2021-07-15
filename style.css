@@ -37,10 +37,10 @@ body {
 }
 li {
     list-style: none;
-    width: 10vmin;
+    width: 12%;
 }
 img {
-    width: 17.5vh;
+    width: 17vh;
     height: 90%;
 }
 h1 {
@@ -140,23 +140,23 @@ h5 {
 }
 
 .item-img1 {
-    padding-top: 16px;
+    padding-top: 30px;
     width: 95%;
     height: 100%;
 }
 .item-img2 {
     width: 95%;
     /* height: 18vmin; */
-    margin-top: -13px;
+    margin-top: -20px;
 }
 .item-img3 {
     width: 95%;
     height: 100%;
-    margin-top: -10px;
+    margin-top: 12px;
 }
 .item-description {
     font-size: calc(8px + 1vmin); 
-    width: 95%;
+    width: 90%;
 } 
 h2 {
     font-size: calc(12px + 1.2vmin);
