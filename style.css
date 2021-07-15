@@ -7,9 +7,12 @@ ul {
     /* padding: 15px 0px 0px 0px; */
     text-align: center;
     line-height: 20px; 
-    padding: 25px 30px 0px 0px;
+    padding: 25px 30px 0px 25px;
     margin: 0px;
     
+}
+.contact {
+    text-align: right;
 }
 nav {
     background-color: rgb(247, 247, 247);
@@ -24,7 +27,7 @@ nav {
     height: auto;
 }
 body {
-    max-width: 850px;
+    max-width: 1000px;
     margin: auto;
     /* background-color: azure; */
 }
@@ -34,10 +37,10 @@ body {
 }
 li {
     list-style: none;
-    width: 15vmin;
+    width: 10vmin;
 }
 img {
-    width: 19.5vh;
+    width: 17.5vh;
     height: 90%;
 }
 h1 {
@@ -55,7 +58,7 @@ h5 {
     margin: 0%;
 }
 .text {
-    margin-left: 10px;
+    margin-left: 20px;
     width: 85%;
     padding-right: 45px;
 }
@@ -113,7 +116,7 @@ h5 {
     padding-right: 65px;
 }
 .main-pic {
-    width: 97%;
+    width: 95%;
 }
 .label {
     font-size: calc(6px + 1.2vmin);
@@ -131,7 +134,7 @@ h5 {
     /* height: 35vmin; */
 }
 .item-name {
-    font-size: calc(6px + 1vmin);
+    font-size: calc(6px + 0.9vmin);
     margin-top: 0%;
     text-decoration: underline;
 }
@@ -143,16 +146,17 @@ h5 {
 }
 .item-img2 {
     width: 95%;
-    height: 18vmin;
-    /* margin-top: -15px; */
+    /* height: 18vmin; */
+    margin-top: -13px;
 }
 .item-img3 {
     width: 95%;
     height: 100%;
+    margin-top: -10px;
 }
 .item-description {
     font-size: calc(8px + 1vmin); 
-    width: 99%;
+    width: 95%;
 } 
 h2 {
     font-size: calc(12px + 1.2vmin);
