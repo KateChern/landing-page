@@ -1,0 +1,143 @@
+html {
+    font-family: 'Exo', sans-serif;
+}
+ul {
+    display:flex;
+    justify-content: space-between;
+    padding: 15px 0% 0% 0%;
+    text-align: center;
+    line-height: 20px; 
+    padding: 10px 30px ;
+}
+.icon {
+    padding-top: 2px;
+    margin-bottom: -3px;
+    width: 20px;
+    height: auto;
+}
+.body {
+    padding: 10px 0px 10px 45px ;
+}
+li {
+    list-style: none;
+    width: 15vmin;
+}
+img {
+    width: 15vh;
+    height: 90%;
+}
+h1 {
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+    margin-top: 40px;
+    margin-bottom: 26px;
+    /* font-size: 45px; */
+   
+}
+p {
+    font-size: calc(10px + 1.2vmin);
+}
+h5 {
+    margin: 0%;
+}
+.text {
+    margin-left: 10px;
+    width: 47vh;
+    padding-right: 45px;
+}
+.boldText {
+    font-size: calc(10px + 1.2vmin);
+    margin-bottom: -10px;
+    font-weight: 550;
+}
+
+/* ---------------------------------------------------------------------- */
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.colomn {
+    padding-top: 55px;
+}
+.link {
+    font-style: italic;
+    font-size: calc(7px + 1.2vmin);
+    margin: 0px 0px;
+}
+.cursive {
+    font-style: italic;
+    font-size: calc(9px + 1.2vmin);
+    margin: 0px 0px;
+}
+.text-container {
+    width: 40vh;
+}
+.second-colomn {
+    text-align: left;
+    padding-right: 65px;
+}
+.third-colomn {
+    text-align: left;
+    padding-right: 140px;
+    padding-top: 25px;
+}
+.percent {
+    margin: 0%;
+    font-size: calc(30px + 1.2vmin);
+    font-weight: 500;
+    font-style: italic;
+}
+/* ------------------------------------------------------------------------ */
+
+.list {
+    display: inline;
+}
+.main-text {
+    /* width: 96%; */
+    padding-right: 65px;
+}
+.main-pic {
+    width: 86vmin;
+}
+.label {
+    font-size: calc(6px + 1.2vmin);
+    margin: 0%;
+}
+.third-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 35px;
+    padding-bottom: 30px;
+}
+.item-container {
+    width: 23vh;
+    /* height: 35vmin; */
+}
+.item-name {
+    font-size: calc(6px + 1vmin);
+    margin-top: 0%;
+    text-decoration: underline;
+}
+
+.item-img1 {
+    padding-top: 16px;
+    width: 95%;
+    height: 100%;
+}
+.item-img2 {
+    width: 95%;
+    height: 19vmin;
+}
+.item-img3 {
+    width: 95%;
+    height: 100%;
+}
+.item-description {
+    font-size: calc(8px + 1vmin); 
+    width: 28vmin;
+} 
+h2 {
+    font-size: calc(12px + 1.2vmin);
+    font-weight: 400;  
+}
